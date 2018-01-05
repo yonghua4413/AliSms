@@ -1,7 +1,5 @@
 <?php
-
-namespace YYHhelper\SMS;
-
+namespace YYHSms;
 /**
  * 签名助手 2017/11/19
  *
