@@ -3,7 +3,8 @@
  * 阿里新版短信
  * @author 254274509@qq.com
  */
-use YYHhelper\SignatureHelper;
+namespace YYHhelper\SMS;
+use YYHhelper\SMS\SignatureHelper;
 
 class SendSms{
     
